@@ -6,7 +6,7 @@ This project involves the analysis of hotel booking data using Microsoft Excel. 
 
 ## Dashboard Preview
 
-![Hotel Booking Dashboard](IMG_4393-preview.jpeg)
+![Hotel Booking Dashboard](IMG_4393.jpeg)
 
 ## Key Performance Indicators (KPIs)
 
@@ -55,7 +55,7 @@ Analysis of hotel booking profits across the countries represented in the datase
 ## Project Files
 - `Hotel_Booking_Analysis.xlsx` – Excel workbook containing the analysis and interactive dashboard.
 - `Hotel_Booking_Dashboard.pdf` – PDF version of the dashboard.
-- `IMG_4393-preview.jpeg` – Dashboard preview image.
+- `IMG_4393.jpeg` – Dashboard preview image.
 
 ## Project Objective
 To demonstrate practical skills in data analysis, business reporting, dashboard development, and data visualisation using Microsoft Excel.
